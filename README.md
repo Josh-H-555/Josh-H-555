@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josh-H-555
+- 👋 Hi, I’m Josh!
 
 -I'm a Software Engineering student, who likes to take on new projects every so often.
 
