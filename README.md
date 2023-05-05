@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh!
 
--I'm a Software Engineering student, who likes to take on new projects every so often.
+-I'm a Software Engineering student, who likes to take on new projects in between schoolwork and my day job as a Software Engineer.
 
--I am currently learning Python and Unity. Soon, web design, and eventually Flutter.
+-Currently, most of my commits are related to coursework.
